@@ -1,0 +1,5 @@
+cd .
+    uvicorn src.main:app --reload
+
+terminal:
+    sudo apt install ffmpeg
